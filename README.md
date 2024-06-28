@@ -6,3 +6,9 @@ Interactive visualtiations are available through Tableau Public: https://public.
 Full text of the research will become available later this month.
 
 For questions and inquires: Ruslan.Pinskii@gmail.com
+
+Dataset with chart data on 51 countries with Spotify track URI-s was retrieved from https://github.com/PabloBelloDelpon/Spotify_paper
+
+This is a unique dataset that spans over 3,5 years between January 2017 and July 2020.
+
+Note that Bulgaria and Nicaragua have a lot of missing values, hence could not be used for a comparative analysis
