@@ -3,7 +3,7 @@ MSc Thesis on evolvement of music diversity in the era of rising dominance of DS
 
 Interactive visualtiations are available through Tableau Public: https://public.tableau.com/app/profile/ruslan.pinskii/vizzes 
 
-Full text of the research will become available later this month.
+Full text of the research: https://drive.google.com/file/d/1hqtT7XM44o5q-O47fEy9PGCkY5goEqfC/view?usp=share_link
 
 For questions and inquires: Ruslan.Pinskii@gmail.com
 
